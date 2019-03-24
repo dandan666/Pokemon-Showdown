@@ -15,11 +15,11 @@ Navigation: [Website][1] | **Server repository** | [Client repository][2] | [Dex
 Introduction
 ------------------------------------------------------------------------
 
-This is the source code for the game server of [Pokémon Showdown][4], a website for Pokémon battling. Pokémon Showdown simulates singles, doubles and triples battles in all the games out so far (Generations 1 through 7).
+This is the source code for the game server of [Pokémon Showdown][4], a website for Pokémon battling. Pokémon Showdown simulates single, double and triple battles in all the games out so far (Generations 1 through 7). 
 
-This repository contains the files needed to set up your own Pokémon Showdown server. Note that to set up a server, you'll also need a server computer.
+This repository contains the files needed to set up your own Pokémon Showdown server. Note that to set up a server, you'll also need a computer to run a server on.
 
-You can use your own computer as a server, but for other people to connect to your computer, you'll need to expose a port (default is 8000 but you can choose a different one) to connect to, which sometimes requires [port forwarding][5]. Note that some internet providers don't let you host a server at all, in which case you'll have to rent a VPS to use as a server.
+You can use your own computer as a server, but for other people to connect to your computer, you'll need to expose a port to connect to (default is 8000 but you can choose a different one), which sometimes requires [port forwarding][5]. Note that some internet providers don't let you host a server at all, in which case you'll have to rent a VPS (Virtual Private Server) to use as a server.
 
   [4]: http://pokemonshowdown.com/
   [5]: http://en.wikipedia.org/wiki/Port_forwarding
